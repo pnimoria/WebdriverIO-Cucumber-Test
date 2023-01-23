@@ -14,7 +14,7 @@ Test automation framework for an application using WebdriverIO-CucumberBDD
 
 Below are the steps to have the code ready for execution
 
-- Clone the above repository using the command ``
+- Clone the above repository using the command `https://github.com/pnimoria/WebdriverIO-Cucumber-Test.git`
 - Once cloned, goto the folder /WebdriverIO-Cucumber-Task and run command `npm install`
   Wait for dependencies to install
 - All done from setup now :)
